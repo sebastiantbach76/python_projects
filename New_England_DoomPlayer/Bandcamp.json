@@ -1,0 +1,608 @@
+{
+	"Lesser Glow": {
+		"city": "Boston",
+		"state": "MA", 
+		"songURLs": ["https://lesserglow.bandcamp.com/track/the-great-imitator", "https://lesserglow.bandcamp.com/track/fostering-this-nullity", "https://lesserglow.bandcamp.com/track/i-am-the-island", "https://lesserglow.bandcamp.com/track/toba"], 
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Glacier": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://glacierma.bandcamp.com/track/o-world-i-remain-no-longer-here", "https://glacierma.bandcamp.com/track/the-bugles-blow-fanned-by-hysteria", "https://glacierma.bandcamp.com/track/we-glut-our-souls-on-the-accursed", "https://glacierma.bandcamp.com/track/and-we-are-damned-amid-noble-sound"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Morne": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://morneband.bandcamp.com/track/to-rust-2", "https://morneband.bandcamp.com/track/truth-is-light-2", "https://morneband.bandcamp.com/track/mirror-2", "https://morneband.bandcamp.com/track/twilight-burns-3"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Leather Lung": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://leatherlungcult.bandcamp.com/track/barbed-wire", "https://leatherlungcult.bandcamp.com/track/dirty-mangy-dog", "https://leatherlungcult.bandcamp.com/track/aint-feelin-no-pain", "https://leatherlungcult.bandcamp.com/track/skeleton-key"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"SEED": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://seedma.bandcamp.com/track/poison", "https://seedma.bandcamp.com/track/seaweed", "https://seedma.bandcamp.com/track/hanged-man", "https://seedma.bandcamp.com/track/thorns"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"TENTACLE": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://tentacle666.bandcamp.com/track/the-blackness-of-my-soul-will-be-so-great-as-to-make-the-night-weep", "https://tentacle666.bandcamp.com/track/dull-ache-i-hate-myself-today", "https://tentacle666.bandcamp.com/track/ram-headed-serpent", "https://tentacle666.bandcamp.com/track/alone-in-my-grave"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Greylock": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://greylock.bandcamp.com/track/greylock-do-not-revive", "https://greylock.bandcamp.com/track/greylock-pusher", "https://greylock.bandcamp.com/track/pill-for-pill", "https://greylock.bandcamp.com/track/crisis-rejection"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"SEA": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://heavysea.bandcamp.com/track/penumbra", "https://heavysea.bandcamp.com/track/shrine", "https://heavysea.bandcamp.com/track/ashes", "https://heavysea.bandcamp.com/track/dust", "https://heavysea.bandcamp.com/track/return", "https://heavysea.bandcamp.com/track/stone-ship"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Oxblood Forge": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://oxbloodforge.bandcamp.com/track/into-the-abyss", "https://oxbloodforge.bandcamp.com/track/decimator", "https://oxbloodforge.bandcamp.com/track/forged-in-fire-2", "https://oxbloodforge.bandcamp.com/track/spirit-of-vengeance", "https://oxbloodforge.bandcamp.com/track/death-dealer", "https://oxbloodforge.bandcamp.com/track/blind-stagger"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"KIND": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://kindrocks.bandcamp.com/track/broken-tweaker", "https://kindrocks.bandcamp.com/track/bad-friend", "https://kindrocks.bandcamp.com/track/its-your-head", "https://kindrocks.bandcamp.com/track/mental-nudge", "https://kindrocks.bandcamp.com/track/trigger-happy", "https://ripplemusic.bandcamp.com/track/hordeolum"],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Wormwood": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://wormwoodboston.bandcamp.com/track/infinite-darkness", "https://wormwoodboston.bandcamp.com/track/forlorn", "https://wormwoodboston.bandcamp.com/track/mooncurse", "https://wormwoodboston.bandcamp.com/track/parasitic-twin", "https://wormwoodboston.bandcamp.com/track/burn-the-psychic-vision", "https://wormwoodboston.bandcamp.com/track/passage-of-fire" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"CAZADOR": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://cazadorboston.bandcamp.com/track/mean-world-syndrome-2", "https://cazadorboston.bandcamp.com/track/exigent", "https://cazadorboston.bandcamp.com/track/kar-shi-2", "https://cazadorboston.bandcamp.com/track/skeleton-crew", "https://cazadorboston.bandcamp.com/track/failure-to-thrive", "https://cazadorboston.bandcamp.com/track/red-giant-2" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Rozamov": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://rozamov.bandcamp.com/track/this-mortal-road", "https://rozamov.bandcamp.com/track/wind-scorpion", "https://rozamov.bandcamp.com/track/serpent-cult", "https://rozamov.bandcamp.com/track/inhumation", "https://rozamov.bandcamp.com/track/ghost-divine", "https://rozamov.bandcamp.com/track/surrounded-by-wolves-live" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Wizard Cult": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://wizardcult.bandcamp.com/track/the-cave", "https://wizardcult.bandcamp.com/track/secunda", "https://wizardcult.bandcamp.com/track/goat-demoness", "https://wizardcult.bandcamp.com/track/the-golden-mind-pt-i", "https://wizardcult.bandcamp.com/track/doom-god-3", "https://wizardcult.bandcamp.com/track/goat-demons" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Hepatagua": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://hepatagua.bandcamp.com/track/drink-the-water-save-your-prayers", "https://hepatagua.bandcamp.com/track/lights-out", "https://hepatagua.bandcamp.com/track/landmarks-ghosts", "https://hepatagua.bandcamp.com/track/worms", "https://hepatagua.bandcamp.com/track/no-rights-2", "https://hepatagua.bandcamp.com/track/ganesha" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Benthic Realm": {
+		"city": "Worcester",
+		"state": "MA",
+		"songURLs": ["https://benthicrealm.bandcamp.com/track/save-us-all", "https://benthicrealm.bandcamp.com/track/thousand-day-rain", "https://benthicrealm.bandcamp.com/track/i-will-not-bow", "https://benthicrealm.bandcamp.com/track/untethered", "https://benthicrealm.bandcamp.com/track/awakening", "https://benthicrealm.bandcamp.com/track/where-serpents-dwell" 
+		],
+		"coords": [42.2754254, -71.8777782]
+	},
+
+	"Second Grave": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://secondgrave.bandcamp.com/track/no-roam", "https://secondgrave.bandcamp.com/track/17-days", "https://secondgrave.bandcamp.com/track/mourning-light", "https://secondgrave.bandcamp.com/track/drink-the-water", "https://secondgrave.bandcamp.com/track/mountains-of-madness", "https://secondgrave.bandcamp.com/track/soul-extinction" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Faces of Bayon": {
+		"city": "Fitchburg",
+		"state": "MA",
+		"songURLs": ["https://facesofbayon.bandcamp.com/track/concilium", "https://facesofbayon.bandcamp.com/track/blasphemies-of-the-forgotten-world", "https://facesofbayon.bandcamp.com/track/so-mote-it-be", "https://facesofbayon.bandcamp.com/track/brimstoned", "https://facesofbayon.bandcamp.com/track/ethereality", "https://facesofbayon.bandcamp.com/track/where-the-golden-road-ends" 
+		],
+		"coords": [42.5909436, -71.8755481]
+	},
+
+	"F\u00d3RN": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://forn.bandcamp.com/track/manifestations-of-the-divine-root", "https://forn.bandcamp.com/track/cosmic-desolation", "https://forn.bandcamp.com/track/scrying-below-the-wolf-moon", "https://forn.bandcamp.com/track/saudade-part-i", "https://forn.bandcamp.com/track/saudade-part-ii", "https://forn.bandcamp.com/track/dweller-on-the-threshold" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Dust Prophet": {
+		"city": "Manchester",
+		"state": "NH",
+		"songURLs": ["https://dustprophet.bandcamp.com/track/the-high-capital", "https://dustprophet.bandcamp.com/track/hourglass" 
+		],
+		"coords": [42.9706343, -71.5141011]
+	},
+
+	"The Hounds of Hasselvander": {
+		"city": "Hadley",
+		"state": "MA",
+		"songURLs": ["https://bloodrockrecords.bandcamp.com/track/the-ninth-hour", "https://bloodrockrecords.bandcamp.com/track/heavier-than-thou", "https://bloodrockrecords.bandcamp.com/track/suburban-witch", "https://bloodrockrecords.bandcamp.com/track/restless-soul", "https://bloodrockrecords.bandcamp.com/track/salem", "https://bloodrockrecords.bandcamp.com/track/coming-of-the-king"     
+		],
+		"coords": [42.3563505, -72.6552406] 
+	},
+
+	"Vacant Eyes": {
+		"city": "Easthampton",
+		"state": "MA",
+		"songURLs": ["https://vacanteyesdoom.bandcamp.com/track/a-colorless-eternity", "https://vacanteyesdoom.bandcamp.com/track/a-timeless-vault", "https://vacanteyesdoom.bandcamp.com/track/an-essence-of-anguish", "https://vacanteyesdoom.bandcamp.com/track/indifference-2", "https://vacanteyesdoom.bandcamp.com/track/the-cortex", "https://vacanteyesdoom.bandcamp.com/track/the-dim-light-of-introversion"     
+		],
+		"coords": [42.2574591, -72.7098515] 
+	},
+
+
+	"Altar of Ash": {
+		"city": "Worcester",
+		"state": "MA",
+		"songURLs": ["https://altarofash.bandcamp.com/track/gods-of-the-abyss", "https://altarofash.bandcamp.com/track/stuck-on-haunted-isle", "https://altarofash.bandcamp.com/track/re-animator", "https://altarofash.bandcamp.com/track/piss-couch", "https://altarofash.bandcamp.com/track/leshen", "https://altarofash.bandcamp.com/track/black-waltz" 
+		],
+		"coords": [42.2754254, -71.8777782]
+	},
+
+	"Black Pyramid": {
+		"city": "Northampton",
+		"state": "MA",
+		"songURLs": ["https://blackpyramid.bandcamp.com/track/the-quantum-phoenix", "https://blackpyramid.bandcamp.com/track/visions-of-gehenna", "https://blackpyramid.bandcamp.com/track/the-worm-ouroboros", "https://blackpyramid.bandcamp.com/track/mercys-bane", "https://blackpyramid.bandcamp.com/track/dreams-of-the-dead", "https://blackpyramid.bandcamp.com/track/warswine"     
+		],
+		"coords": [42.3296961, -72.7334401] 
+	},
+
+	"Blacksoul Seraphim": {
+		"city": "Worcester",
+		"state": "MA",
+		"songURLs": ["https://blacksoulseraphim.bandcamp.com/track/doom-junkie", "https://blacksoulseraphim.bandcamp.com/track/priestess-of-the-deep-2", "https://blacksoulseraphim.bandcamp.com/track/bedlam-harvest", "https://blacksoulseraphim.bandcamp.com/track/sunsworn-knight", "https://blacksoulseraphim.bandcamp.com/track/pureblood-demon", "https://blacksoulseraphim.bandcamp.com/track/the-sightless-hero" 
+		],
+		"coords": [42.2754254, -71.8777782]
+	},
+
+	"Chained to the Bottom of the Ocean": {
+		"city": "Springfield",
+		"state": "MA",
+		"songURLs": ["https://chainedtothebottomoftheocean.bandcamp.com/track/confusion-hath-fuck-his-masterpiece-2", "https://chainedtothebottomoftheocean.bandcamp.com/track/the-dead-who-climb-up-to-the-sky-2", "https://chainedtothebottomoftheocean.bandcamp.com/track/hollow-feeds-the-emptying-death-2", "https://chainedtothebottomoftheocean.bandcamp.com/track/i-will-possess-your-heart", "https://chainedtothebottomoftheocean.bandcamp.com/track/out-brief-candle", "https://chainedtothebottomoftheocean.bandcamp.com/track/genesis-of-the-daffodil" 
+		],
+		"coords": [42.1129465, -72.6163816]
+	},
+
+	"Cortez": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://cortezboston.bandcamp.com/track/sell-the-future", "https://cortezboston.bandcamp.com/track/sharpen-the-spear", "https://cortezboston.bandcamp.com/track/beyond", "https://cortezboston.bandcamp.com/track/blood-of-heirs-in-the-shadows-of-ancients-pt-iii", "https://cortezboston.bandcamp.com/track/walk-through-fire-in-the-shadows-of-ancients-pt-i", "https://cortezboston.bandcamp.com/track/the-citadel-in-the-shadows-of-ancients-pt-ii" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Magic Circle": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://magiccircle.bandcamp.com/track/departed-souls", "https://magiccircle.bandcamp.com/track/valley-of-the-lepers", "https://magiccircle.bandcamp.com/track/the-damned-man", "https://magiccircle.bandcamp.com/track/grand-deceivers", "https://magiccircle.bandcamp.com/track/winter-light", "https://magiccircle.bandcamp.com/track/magic-circle-cloven-in-two" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Summoner": {
+		"city": "Boston",
+		"state": "MA",
+		"songURLs": ["https://summonerboston.bandcamp.com/track/the-huntress", "https://summonerboston.bandcamp.com/track/beyond-the-realm-of-light", "https://summonerboston.bandcamp.com/track/the-emptiness", "https://summonerboston.bandcamp.com/track/winged-hessians-3", "https://summonerboston.bandcamp.com/track/conjuring-2", "https://summonerboston.bandcamp.com/track/dead-moon-2" 
+		],
+		"coords": [42.3145186, -71.110369]
+	},
+
+	"Warhorse": {
+		"city": "Worcester",
+		"state": "MA",
+		"songURLs": ["https://warhorsesl.bandcamp.com/track/dooms-bride", "https://warhorsesl.bandcamp.com/track/black-acid-prophecy", "https://warhorsesl.bandcamp.com/track/every-flower-dies-no-matter-the-thorns-wither", "https://warhorsesl.bandcamp.com/track/lysergic-communion", "https://warhorsesl.bandcamp.com/track/scrape", "https://warhorsesl.bandcamp.com/track/i-am-dying" 
+		],
+		"coords": [42.2754254, -71.8777782]
+	},
+
+	"Ditch Mimes": {
+		"city": "Fitchburg",
+		"state": "MA",
+		"songURLs": ["https://ditchmimes.bandcamp.com/track/arise", "https://ditchmimes.bandcamp.com/track/charnel-house", "https://ditchmimes.bandcamp.com/track/no-sleep-2", "https://ditchmimes.bandcamp.com/track/dwarf-rider-2", "https://ditchmimes.bandcamp.com/track/deserts-that-once-were-seas", "https://ditchmimes.bandcamp.com/track/irony-maiden" 
+		],
+		"coords": [42.5909436, -71.8755481]
+	},
+
+	"Palace in Thunderland": {
+		"city": "Springfield",
+		"state": "MA",
+		"songURLs": ["https://palaceinthunderland.bandcamp.com/track/the-king-of-the-empty-aeon", "https://palaceinthunderland.bandcamp.com/track/this-illusions-come-alive", "https://palaceinthunderland.bandcamp.com/track/the-word-unspoken", "https://palaceinthunderland.bandcamp.com/track/beyond-the-stars-2", "https://palaceinthunderland.bandcamp.com/track/awakened-dream-2", "https://palaceinthunderland.bandcamp.com/track/the-distant-shore-2" 
+		],
+		"coords": [42.1129465, -72.6163816]
+	},
+
+	"Come to Grief": {
+		"city": "Hudson",
+		"state": "NH",
+		"songURLs": ["https://cometogrief.bandcamp.com/track/no-savior-2", "https://cometogrief.bandcamp.com/track/futility-of-humanity", "https://cometogrief.bandcamp.com/track/junklove", "https://cometogrief.bandcamp.com/track/take-me-in-my-sleep", "https://cometogrief.bandcamp.com/track/march-of-the-maggots", "https://cometogrief.bandcamp.com/track/raping-the-willing-2" 
+		],
+		"coords": [42.7619277, -71.4823491]
+	},
+
+	"Elder": {
+		"city": "Providence",
+		"state": "RI",
+		"songURLs": ["https://beholdtheelder.bandcamp.com/track/compendium", "https://beholdtheelder.bandcamp.com/track/lore", "https://beholdtheelder.bandcamp.com/track/dead-roots-stirring-2", "https://beholdtheelder.bandcamp.com/track/iii-2", "https://beholdtheelder.bandcamp.com/track/hexe", "https://beholdtheelder.bandcamp.com/track/riddle-of-steel-pt-2" 
+		],
+		"coords": [41.8169928, -71.4912206]
+	},
+
+	"Mourn the Light": {
+		"city": "Norwich",
+		"state": "CT",
+		"songURLs": ["https://mournthelight.bandcamp.com/track/suffer-then-were-gone", "https://mournthelight.bandcamp.com/track/wisdom-bestowed", "https://mournthelight.bandcamp.com/track/blink-of-an-eye-remastered-bonus-track", "https://mournthelight.bandcamp.com/track/bewitched", "https://mournthelight.bandcamp.com/track/lost-all-control", "https://mournthelight.bandcamp.com/track/drags-me-down" 
+		],
+		"coords": [41.5494551, -72.1606112]
+	},
+
+	"God-Shroud": {
+		"city": "Enfield",
+		"state": "CT",
+		"songURLs": ["https://god-shroud.bandcamp.com/track/vigil-for-the-dead", "https://god-shroud.bandcamp.com/track/in-the-valley-of-bones", "https://god-shroud.bandcamp.com/track/the-forest-of-thorns", "https://god-shroud.bandcamp.com/track/tyrants", "https://god-shroud.bandcamp.com/track/death-atoll", "https://god-shroud.bandcamp.com/track/vultures" 
+		],
+		"coords": [41.9844523, -72.6281216]
+	},
+
+	"Curse the Son": {
+		"city": "New Haven",
+		"state": "CT",
+		"songURLs": ["https://cursetheson.bandcamp.com/track/suicide-by-drummer", "https://cursetheson.bandcamp.com/track/novembre", "https://cursetheson.bandcamp.com/track/excruciation", "https://cursetheson.bandcamp.com/track/hull-crush-depth", "https://cursetheson.bandcamp.com/track/aislamiento", "https://cursetheson.bandcamp.com/track/klonopain" 
+		],
+		"coords": [41.2983961, -72.9991361]
+	},
+
+	"Exit Bag": {
+		"city": "Hartford",
+		"state": "CT",
+		"songURLs": ["https://exitbag.bandcamp.com/track/disdain", "https://exitbag.bandcamp.com/track/sycophant-2", "https://exitbag.bandcamp.com/track/blanket-2", "https://exitbag.bandcamp.com/track/lobotomy", "https://exitbag.bandcamp.com/track/death", "https://exitbag.bandcamp.com/track/cynic" 
+		],
+		"coords": [41.7657462, -72.7151065]
+	},
+
+	"Gorge": {
+		"city": "Simsbury",
+		"state": "CT",
+		"songURLs": ["https://gorgeband.bandcamp.com/track/the-great-dying-2", "https://gorgeband.bandcamp.com/track/sacred-fire", "https://gorgeband.bandcamp.com/track/walls-of-stone", "https://gorgeband.bandcamp.com/track/land-bridge-2", "https://gorgeband.bandcamp.com/track/blubbered", "https://gorgeband.bandcamp.com/track/false-face" 
+		],
+		"coords": [41.8685695, -72.8876817]
+	},
+
+	"When the Deadbolt Breaks": {
+		"city": "Lebanon",
+		"state": "CT",
+		"songURLs": ["https://whenthedeadboltbreaks.bandcamp.com/track/the-woods-are-full-of-killers", "https://whenthedeadboltbreaks.bandcamp.com/track/the-scavengers-daughter", "https://whenthedeadboltbreaks.bandcamp.com/track/sleeps-in-burning-hills", "https://whenthedeadboltbreaks.bandcamp.com/track/the-evil", "https://whenthedeadboltbreaks.bandcamp.com/track/the-hanged-woman", "https://whenthedeadboltbreaks.bandcamp.com/track/the-crushing-weight-of-the-sun" 
+		],
+		"coords": [41.626877, -72.3859712]
+	},
+
+	"Sea of Bones": {
+		"city": "New Haven",
+		"state": "CT",
+		"songURLs": ["https://seaofbones.bandcamp.com/track/hopelessness-and-decay", "https://seaofbones.bandcamp.com/track/silent-transmissions", "https://seaofbones.bandcamp.com/track/the-stone-the-slave-and-the-architect", "https://seaofbones.bandcamp.com/track/black-arm", "https://seaofbones.bandcamp.com/track/beneath-the-earth", "https://seaofbones.bandcamp.com/track/the-bridge" 
+		],
+		"coords": [41.2983961, -72.9991361]
+	},
+
+	"Bedroom Rehab Corporation": {
+		"city": "New London",
+		"state": "CT",
+		"songURLs": ["https://bedroomrehabcorporation.bandcamp.com/track/when-all-youve-got-is-a-hammer", "https://bedroomrehabcorporation.bandcamp.com/track/giants-in-the-ice", "https://bedroomrehabcorporation.bandcamp.com/track/the-serpent-the-smiler", "https://bedroomrehabcorporation.bandcamp.com/track/caught-in-the-bite", "https://bedroomrehabcorporation.bandcamp.com/track/pilot-fish", "https://bedroomrehabcorporation.bandcamp.com/track/splice-the-main-brace" 
+		],
+		"coords": [41.3318556, -72.1618647]
+	},
+
+	"Entierro": {
+		"city": "New Haven",
+		"state": "CT",
+		"songURLs": ["https://entierro.bandcamp.com/track/the-tower", "https://entierro.bandcamp.com/track/the-past", "https://entierro.bandcamp.com/track/valley-of-deceit-2", "https://entierro.bandcamp.com/track/turn-off-the-light", "https://entierro.bandcamp.com/track/cauldron-of-war", "https://entierro.bandcamp.com/track/burying-the-shadow" 
+		],
+		"coords": [41.2983961, -72.9991361]
+	},
+
+	"Balam": {
+		"city": "Newport",
+		"state": "RI",
+		"songURLs": ["https://thybalam.bandcamp.com/track/birth", "https://thybalam.bandcamp.com/track/lilith", "https://thybalam.bandcamp.com/track/days-of-old", "https://thybalam.bandcamp.com/track/spirit-flight", "https://thybalam.bandcamp.com/track/with-the-lost", "https://thybalam.bandcamp.com/track/bound-to-the-serpent" 
+		],
+		"coords": [41.4861465, -71.3596894]
+	},
+
+	"Black Acid Prophecy": {
+		"city": "Providence",
+		"state": "RI",
+		"songURLs": ["https://blackacidprophecy.bandcamp.com/track/venom-in-my-veins", "https://blackacidprophecy.bandcamp.com/track/rise", "https://blackacidprophecy.bandcamp.com/track/life-becomes-the-hunted" 
+		],
+		"coords": [41.8169928, -71.4912206]
+	},
+
+	"Pilgrim": {
+		"city": "Newport",
+		"state": "RI",
+		"songURLs": ["https://hailthepilgrim.bandcamp.com/track/masters-chamber", "https://hailthepilgrim.bandcamp.com/track/void-worship", "https://hailthepilgrim.bandcamp.com/track/away-from-here", "https://hailthepilgrim.bandcamp.com/track/astaroth", "https://hailthepilgrim.bandcamp.com/track/misery-wizard", "https://hailthepilgrim.bandcamp.com/track/quest-2" 
+		],
+		"coords": [41.4861465, -71.3596894]
+	},
+
+	"Marrowfields": {
+		"city": "Fall River",
+		"state": "MA",
+		"songURLs": ["https://marrowfieldsblacklion.bandcamp.com/track/the-flood", "https://marrowfieldsblacklion.bandcamp.com/track/crow-and-raven", "https://marrowfieldsblacklion.bandcamp.com/track/birth-of-the-liberator", "https://marrowfieldsblacklion.bandcamp.com/track/metamorphoses", "https://marrowfieldsblacklion.bandcamp.com/track/dragged-to-the-world-below" 
+		],
+		"coords": [41.6857024, -71.1747497]
+	},
+
+	"Dark Ritual": {
+		"city": "Providence",
+		"state": "RI",
+		"songURLs": ["https://darkritualband.bandcamp.com/track/lava-axe", "https://darkritualband.bandcamp.com/track/necromancer-2", "https://darkritualband.bandcamp.com/track/stormbreath" 
+		],
+		"coords": [41.8169928, -71.4912206]
+	},
+
+	"Mar": {
+		"city": "Providence",
+		"state": "RI",
+		"songURLs": ["https://m-a-r.bandcamp.com/track/only-decay-is-our-memory", "https://m-a-r.bandcamp.com/track/violet", "https://m-a-r.bandcamp.com/track/her-blood-is-gold", "https://m-a-r.bandcamp.com/track/weather-the-storm", "https://m-a-r.bandcamp.com/track/to-my-dead-brother", "https://m-a-r.bandcamp.com/track/untitled"  
+		],
+		"coords": [41.8169928, -71.4912206]
+	},
+
+	"Burn the Ship": {
+		"city": "Providence",
+		"state": "RI",
+		"songURLs": ["https://burntheship.bandcamp.com/track/switchback", "https://burntheship.bandcamp.com/track/black-hog", "https://burntheship.bandcamp.com/track/derivative-proclamation", "https://burntheship.bandcamp.com/track/dead-guy"
+		],
+		"coords": [41.8169928, -71.4912206]
+	},
+
+	"Churchburn": {
+		"city": "Providence",
+		"state": "RI",
+		"songURLs": ["https://churchburntl.bandcamp.com/track/genocidal-rite", "https://churchburntl.bandcamp.com/track/swallowed-by-dust", "https://churchburntl.bandcamp.com/track/scarred", "https://churchburn.bandcamp.com/track/lines-of-red", "https://churchburn.bandcamp.com/track/the-misery-hymns-2", "https://churchburn.bandcamp.com/track/authorized-to-cleanse"  
+		],
+		"coords": [41.8169928, -71.4912206]
+	},
+
+	"Bone Church": {
+		"city": "New Haven",
+		"state": "CT",
+		"songURLs": ["https://bonechurch1.bandcamp.com/track/witch-in-the-cellar-2", "https://bonechurch1.bandcamp.com/track/iron-temple", "https://bonechurch1.bandcamp.com/track/acid-communion", "https://bonechurch1.bandcamp.com/track/altered-states", "https://bonechurch1.bandcamp.com/track/pale-moon-sacrifice", "https://bonechurch1.bandcamp.com/track/too-far-out" 
+		],
+		"coords": [41.2983961, -72.9991361]
+	},
+
+	"Boghaunter": {
+		"city": "Manchester",
+		"state": "NH",
+		"songURLs": ["https://boghaunter.bandcamp.com/track/constellation-vows", "https://boghaunter.bandcamp.com/track/ordeals-in-stillness" 
+		],
+		"coords": [42.9706343, -71.5141011]
+	},
+
+	"Black Norse": {
+		"city": "Portsmouth",
+		"state": "NH",
+		"songURLs": ["https://blacknorse.bandcamp.com/track/white-black-norse", "https://blacknorse.bandcamp.com/track/son-of-an-elder-god" 
+		],
+		"coords": [43.0567336, -70.8455422]
+	},
+
+	"Cactus Hag": {
+		"city": "Dover",
+		"state": "NH",
+		"songURLs": ["https://cactushag.bandcamp.com/track/the-grand-lodge-of-the-mirage-2", "https://cactushag.bandcamp.com/track/in-search-of-plagues", "https://cactushag.bandcamp.com/track/lady-of-lucifer", "https://cactushag.bandcamp.com/track/desert-witch", "https://cactushag.bandcamp.com/track/ghost-dance-2019", "https://cactushag.bandcamp.com/track/clones" 
+		],
+		"coords": [43.1864358, -70.9604007]
+	},
+
+	"Green Bastard": {
+		"city": "Dover",
+		"state": "NH",
+		"songURLs": ["https://greenbastard.bandcamp.com/track/thoros", "https://greenbastard.bandcamp.com/track/cyclopean-walls", "https://greenbastard.bandcamp.com/track/green-dream", "https://greenbastard.bandcamp.com/track/furious-george", "https://greenbastard.bandcamp.com/track/usurper-king", "https://greenbastard.bandcamp.com/track/zant" 
+		],
+		"coords": [43.1864358, -70.9604007]
+	},
+
+	"Magnetar": {
+		"city": "Manchester",
+		"state": "NH",
+		"songURLs": ["https://magnatar.bandcamp.com/track/the-melting-skin-of-my-first-born-son", "https://magnatar.bandcamp.com/track/markhor", "https://magnatar.bandcamp.com/track/shangri-la", "https://magnatar.bandcamp.com/track/a-dance-in-fire", "https://magnatar.bandcamp.com/track/5-00", "https://magnatar.bandcamp.com/track/vulgar"  
+		],
+		"coords": [42.9706343, -71.5141011]
+	},
+
+	"Makavrah": {
+		"city": "Peterborough",
+		"state": "NH",
+		"songURLs": ["https://makavrah.bandcamp.com/track/blasphomet", "https://makavrah.bandcamp.com/track/awakening-the-ancients-2", "https://makavrah.bandcamp.com/track/dark-mother", "https://makavrah.bandcamp.com/track/black-sun" 
+		],
+		"coords": [42.8895825, -72.0098416]
+	},
+
+	"Sam Hill": {
+		"city": "Dover",
+		"state": "NH",
+		"songURLs": ["https://samhillnh.bandcamp.com/track/coyote", "https://samhillnh.bandcamp.com/track/the-collection", "https://samhillnh.bandcamp.com/track/the-basement", "https://samhillnh.bandcamp.com/track/crevice", "https://samhillnh.bandcamp.com/track/into-the-wilderness", "https://samhillnh.bandcamp.com/track/ochre" 
+		],
+		"coords": [43.1864358, -70.9604007]
+	},
+
+	"ThunderHawk": {
+		"city": "Manchester",
+		"state": "NH",
+		"songURLs": ["https://thunderhawknh.bandcamp.com/track/hounds-2", "https://thunderhawknh.bandcamp.com/track/break-it-up", "https://thunderhawknh.bandcamp.com/track/battle-hag", "https://thunderhawknh.bandcamp.com/track/loneliest-way-to-die-2", "https://thunderhawknh.bandcamp.com/track/war-of-the-dying-sun", "https://thunderhawknh.bandcamp.com/track/war-pigs-bonus-track"  
+		],
+		"coords": [42.9706343, -71.5141011]
+	},
+
+	"Onera": {
+		"city": "Kingston",
+		"state": "NH",
+		"songURLs": ["https://onera.bandcamp.com/track/unruhe", "https://onera.bandcamp.com/track/still-as-stone", "https://onera.bandcamp.com/track/cold-hands-caress-2" 
+		],
+		"coords": [42.9085463, -71.1315967]
+	},
+
+	"Sassu Wunnu": {
+		"city": "Swanzey",
+		"state": "NH",
+		"songURLs": ["https://sassuwunnu.bandcamp.com/track/kingdom-of-refuse", "https://sassuwunnu.bandcamp.com/track/savage", "https://sassuwunnu.bandcamp.com/track/the-binding-of-the-corpse-god", "https://sassuwunnu.bandcamp.com/track/at-the-altar-of-azathoth", "https://sassuwunnu.bandcamp.com/track/sir-doomicus-hates-you", "https://sassuwunnu.bandcamp.com/track/sludgehammer" 
+		],
+		"coords": [42.8584864, -72.3757902] 
+	},
+
+	"Willow Ash": {
+		"city": "Lyndonville",
+		"state": "VT",
+		"songURLs": ["https://willowash.bandcamp.com/track/a-witchs-window", "https://willowash.bandcamp.com/track/doom-and-gloom-in-the-champagne-room", "https://willowash.bandcamp.com/track/la-petite-mort", "https://willowash.bandcamp.com/track/drive-to-the-moon-space-trashed-mars-in-a-classic-car", "https://willowash.bandcamp.com/track/baobab", "https://willowash.bandcamp.com/track/boneless" 
+		],
+		"coords": [44.5341475, -72.0107813] 
+	},
+
+	"Chalice": {
+		"city": "Montpelier",
+		"state": "VT",
+		"songURLs": ["https://raiseyourchalice.bandcamp.com/track/witchfynder", "https://raiseyourchalice.bandcamp.com/track/gaudete", "https://raiseyourchalice.bandcamp.com/track/merlins-lament", "https://raiseyourchalice.bandcamp.com/track/raise-your-chalice" 
+		],
+		"coords": [44.274248, -72.6037394] 
+	},
+
+	"Hellascope": {
+		"city": "Burlington",
+		"state": "VT",
+		"songURLs": ["https://hellascope.bandcamp.com/track/no-magic", "https://hellascope.bandcamp.com/track/creature-of-the-night", "https://hellascope.bandcamp.com/track/the-tower-2", "https://hellascope.bandcamp.com/track/mind-travel-2", "https://hellascope.bandcamp.com/track/unholy-rebirth", "https://hellascope.bandcamp.com/track/ancient-mysteries" 
+		],
+		"coords": [44.4926915, -73.2966885] 
+	},
+
+	"Peasants": {
+		"city": "Brattleboro",
+		"state": "VT",
+		"songURLs": ["https://peasantsvt.bandcamp.com/track/barrier-one-cells", "https://peasantsvt.bandcamp.com/track/barrier-two-consciousness", "https://peasantsvt.bandcamp.com/track/barrier-three-the-atomic-bomb", "https://peasantsvt.bandcamp.com/track/barrier-four-the-end", "https://peasantsvt.bandcamp.com/track/desert-dweller", "https://peasantsvt.bandcamp.com/track/bongchitis" 
+		],
+		"coords": [42.8607266, -72.601539]
+	},
+
+	"Sachem": {
+		"city": "Burlington",
+		"state": "VT",
+		"songURLs": ["https://sachem802.bandcamp.com/track/wendigo", "https://sachem802.bandcamp.com/track/solstice-glow", "https://sachem802.bandcamp.com/track/winter", "https://sachem802.bandcamp.com/track/haunted-featuring-nick-awad", "https://sachem802.bandcamp.com/track/chasm-3", "https://sachem802.bandcamp.com/track/let-your-mind-grow-into-the-ground" 
+		],
+		"coords": [44.4926915, -73.2966885] 
+	},
+
+	"Lungbuster": {
+		"city": "Burlington",
+		"state": "VT",
+		"songURLs": ["https://lungbustervt.bandcamp.com/track/smoke-weed-at-my-funeral", "https://lungbustervt.bandcamp.com/track/durban-poison", "https://lungbustervt.bandcamp.com/track/delusion", "https://lungbustervt.bandcamp.com/track/infection", "https://lungbustervt.bandcamp.com/track/rusted-dreams", "https://lungbustervt.bandcamp.com/track/plaguebearer" 
+		],
+		"coords": [44.4926915, -73.2966885] 
+	},
+
+	"Smokestack Lightning": {
+		"city": "Burlington",
+		"state": "VT",
+		"songURLs": ["https://smokestacklightningdoom.bandcamp.com/track/grim-ripper-2", "https://smokestacklightningdoom.bandcamp.com/track/lungbuster-2", "https://smokestacklightningdoom.bandcamp.com/track/the-cave-2", "https://smokestacklightningdoom.bandcamp.com/track/humble-pie-2", "https://smokestacklightningdoom.bandcamp.com/track/nine-pound-hammer", "https://smokestacklightningdoom.bandcamp.com/track/rat-bones" 
+		],
+		"coords": [44.4926915, -73.2966885] 
+	},
+
+	"Clan of Dyad": {
+		"city": "Portland",
+		"state": "ME",
+		"songURLs": ["https://deporterrecords.bandcamp.com/track/rings", "https://deporterrecords.bandcamp.com/track/wwwed-circe", "https://deporterrecords.bandcamp.com/track/blood-i-trap", "https://deporterrecords.bandcamp.com/track/breathless" 
+		],
+		"coords": [43.6671132, -70.281555] 
+	},
+
+	"Manic Abraxas": {
+		"city": "Bangor",
+		"state": "ME",
+		"songURLs": ["https://manicabraxas.bandcamp.com/track/no-iron", "https://manicabraxas.bandcamp.com/track/necroscape", "https://manicabraxas.bandcamp.com/track/source-taint-sa", "https://manicabraxas.bandcamp.com/track/night-rays", "https://manicabraxas.bandcamp.com/track/higher-than-heaven", "https://manicabraxas.bandcamp.com/track/dark-builder"
+		],
+		"coords": [44.8297697, -68.8590195] 
+	},
+
+	"Take Back the Zoo": {
+		"city": "Bangor",
+		"state": "ME",
+		"songURLs": ["https://takebackthezoo.bandcamp.com/track/the-dark-arts", "https://takebackthezoo.bandcamp.com/track/spellbound", "https://takebackthezoo.bandcamp.com/track/hex", "https://takebackthezoo.bandcamp.com/track/eye-of-the-storm", "https://takebackthezoo.bandcamp.com/track/voodoo", "https://takebackthezoo.bandcamp.com/track/black-magic"
+		],
+		"coords": [44.8297697, -68.8590195] 
+	},
+
+	"Hallowed Butchery": {
+		"city": "Kennebec County",
+		"state": "ME",
+		"songURLs": ["https://hallowedbutchery.bandcamp.com/track/ever-gloom-2", "https://hallowedbutchery.bandcamp.com/track/the-altruist-2", "https://hallowedbutchery.bandcamp.com/track/flesh-borer-2", "https://hallowedbutchery.bandcamp.com/track/death-to-all-2", "https://hallowedbutchery.bandcamp.com/track/internment-2", "https://hallowedbutchery.bandcamp.com/track/on-the-altar-2"
+		],
+		"coords": [44.4142045, -70.0328398] 
+	},
+
+	"Great Cold Emptiness": {
+		"city": "Saint Agatha",
+		"state": "ME",
+		"songURLs": ["https://greatcoldemptiness.bandcamp.com/track/the-erotic-waltz", "https://greatcoldemptiness.bandcamp.com/track/the-breadmakers-daughter-3", "https://greatcoldemptiness.bandcamp.com/track/the-little-deer-5", "https://greatcoldemptiness.bandcamp.com/track/the-withering-pyre"
+		],
+		"coords": [47.2443732, -68.3884805] 
+	},
+
+	"Ogre": {
+		"city": "Portland",
+		"state": "ME",
+		"songURLs": ["https://ogrereal.bandcamp.com/track/the-future", "https://ogrereal.bandcamp.com/track/blood-of-winter", "https://ogrereal.bandcamp.com/track/king-of-the-wood", "https://ogrereal.bandcamp.com/track/bad-trip", "https://ogrereal.bandcamp.com/track/son-of-sisyphus", "https://ogrereal.bandcamp.com/track/the-hermit"
+		],
+		"coords": [43.6671132, -70.281555] 
+	},
+
+	"Birch Hill Dam": {
+		"city": "Fitchburg",
+		"state": "MA",
+		"songURLs": ["https://birchhilldam.bandcamp.com/track/race-against-time", "https://birchhilldam.bandcamp.com/track/seeing-snakes", "https://birchhilldam.bandcamp.com/track/collapse", "https://birchhilldam.bandcamp.com/track/train-wreck", "https://birchhilldam.bandcamp.com/track/warning-sign", "https://birchhilldam.bandcamp.com/track/wasted-times"
+		],
+		"coords": [42.5909436, -71.8755481]
+	},
+	
+	"Conclave": {
+		"city": "Worcester",
+		"state": "MA",
+		"songURLs": ["https://conclave1.bandcamp.com/track/dawn-of-days", "https://conclave1.bandcamp.com/track/haggard-2", "https://conclave1.bandcamp.com/track/thrown-on-spikes", "https://conclave1.bandcamp.com/track/black-lines", "https://conclave1.bandcamp.com/track/mammut", "https://conclave1.bandcamp.com/track/sins-of-the-elders" 
+		],
+		"coords": [42.2754254, -71.8777782]
+	} 
+}
