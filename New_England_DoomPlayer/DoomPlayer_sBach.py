@@ -6,9 +6,7 @@
 # 1. Haversine Formula in Python Using numpy: https://towardsdatascience.com/calculating-the-distance-between-two-locations-using-geocodes-1136d810e517
 # 2. Severance, Charles. Python for Everybody, Chapter 12
 # Author: Sebastian Bach
-# Student ID: 00332111
 # Course: CIS 153 - Programming for Information Technology
-# Section: LT8
 # Instructor: Professor Penta
 # Semester: Spring 2022
 # Date: 2 May 2022
